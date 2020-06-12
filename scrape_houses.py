@@ -26,14 +26,10 @@ for i in range(22,31):
 
         for house in houses:
                 address = house.find_all('div', class_ = 'address-container')[0]['title']
-                prefix = 'Residential Property for sale in '
-                prefix1 = 'Residential for sale in '
 
-                # get address
-                if address.startswith(prefix):
-                        address = address[len(prefix):]
-                elif address.startswith(prefix1):
-                        address = address[len(prefix1):]
+                # remove characters such as for sale in
+                # because it is not an address
+                address = address[address.find("sale in")][8:]
 
                 beds = house.find('li',class_='ic-beds')
                 if beds is not None:
