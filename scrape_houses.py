@@ -3,7 +3,6 @@ import urllib3
 from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
-import re
 
 # initialize dataframe
 column_names = ["Address", "Beds", "Baths", "House Size", "Lot Size", "Type", "Price"]
@@ -12,8 +11,8 @@ house_info = pd.DataFrame(columns = column_names)
 
 # URL pages
 
-for i in range(1,3):
-        page = f'https://www.point2homes.com/CA/Real-Estate-Listings/NB.html?page={i}'
+for i in range(22,31):
+        page = f"https://www.point2homes.com/CA/Real-Estate-Listings/NB.html?page={i}"
 
         # open page
         http = urllib3.PoolManager()
@@ -85,4 +84,4 @@ for i in range(1,3):
 
 
 print(house_info.shape)
-house_info.to_csv("houseprices_nb.csv",index=False)
+house_info.to_csv("houseprices_nb1.csv",index=False)
