@@ -11,7 +11,8 @@ house_info = pd.DataFrame(columns = column_names)
 
 # URL pages
 
-for i in range(22,31):
+# there are 31 pages containing the houses
+for i in range(1,31):
         page = f"https://www.point2homes.com/CA/Real-Estate-Listings/NB.html?page={i}"
 
         # open page
@@ -80,4 +81,4 @@ for i in range(22,31):
 
 
 print(house_info.shape)
-house_info.to_csv("houseprices_nb1.csv",index=False)
+house_info.to_csv("houseprices_nbf.csv",index=False)
