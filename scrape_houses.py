@@ -11,7 +11,7 @@ house_info = pd.DataFrame(columns = column_names)
 
 # URL pages
 
-for i in range(1,22):
+for i in range(22,31):
         page = f"https://www.point2homes.com/CA/Real-Estate-Listings/NB.html?page={i}"
 
         # open page
@@ -29,7 +29,7 @@ for i in range(1,22):
 
                 # remove characters such as for sale in
                 # because it is not an address
-                address = address[address.find("sale in")][8:]
+                address = address[address.find("sale in"):][8:]
 
                 beds = house.find('li',class_='ic-beds')
                 if beds is not None:
@@ -80,4 +80,4 @@ for i in range(1,22):
 
 
 print(house_info.shape)
-house_info.to_csv("houseprices_nb.csv",index=False)
+house_info.to_csv("houseprices_nb1.csv",index=False)
