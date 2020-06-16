@@ -20,7 +20,7 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "7725 Rte 515, Saint-Paul, New Brunswick",2,1,1350,1.0,"
             Residential
         ",80000
-"133 Daigle Rd., Pointe - Sapin, New Brunswick",4,2,2168,0.99,"
+"133 Daigle Rd., Pointe-Sapin, New Brunswick",4,2,2168,0.99,"
             Residential
         ",169900
 "93 Principale, Memramcook, New Brunswick, E4K 1A7",5,4,5286,6.2,"
@@ -41,7 +41,7 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "13 Bulmer Lane, Sackville, NB, Sackville, New Brunswick, E4L 3R3",3,1,1214,0.4,"
             Residential
         ",134900
-"175 Daigle Rd, Pointe - Sapin, New Brunswick",1,,880,2.5,"
+"175 Daigle Rd, Pointe-Sapin, New Brunswick",1,,880,2.5,"
             Residential
         ",74900
 "1 Baie Vista CRT, Shediac Cape, New Brunswick, E4P 2Y7",3,2,3440,,"
@@ -71,7 +71,7 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "34 Maggie Lane, Miramichi, New Brunswick, E1V 6E4",4,3,1249,1.0,"
             Residential
         ",189900
-"133 Daigle Rd., Pointe - Sapin, New Brunswick",4,2,2168,0.99,"
+"133 Daigle Rd., Pointe-Sapin, New Brunswick",4,2,2168,0.99,"
             Residential
         ",169900
 "13 Bulmer Lane, Sackville, NB, Sackville, New Brunswick, E4L 3R3",3,1,1214,0.4,"
@@ -1865,16 +1865,16 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "19 First AVE, Pointe-du-Chene, New Brunswick",3,1,800,,"
             Single Family
         ",134900
-"Lot 76-3 Renaud, Saint - Antoine, New Brunswick",,,,,"
+"Lot 76-3 Renaud, Saint-Antoine, New Brunswick",,,,,"
             Vacant Land
         ",24900
 "690 Route 1120, Maquapit Lake, New Brunswick",4,1,,,"
             Single Family
         ",199900
-"555 Principale, Pointe - Verte, New Brunswick",,,,,"
+"555 Principale, Pointe-Verte, New Brunswick",,,,,"
             Vacant Land
         ",124900
-"1644 Wilsey Road, Rusagonis - Waasis, New Brunswick",3,1,,,"
+"1644 Wilsey Road, Rusagonis-Waasis, New Brunswick",3,1,,,"
             Single Family
         ",239900
 "25 Norwood AVE, Moncton, New Brunswick, E1C6L8",4,2,2190,,"
@@ -2012,7 +2012,7 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "225 Serenity Lane Unit 102, Fredericton, New Brunswick, E3B0H1",2,1,,,"
             Single Family
         ",134900
-"207 Williams Street, Grand Falls - Grand-Sault, New Brunswick",3,2,,0.019,"
+"207 Williams Street, Grand Falls-Grand-Sault, New Brunswick",3,2,,0.019,"
             Single Family
         ",147000
 "20 Burlington Court, Pokiok, New Brunswick",,,,,"
@@ -2075,7 +2075,7 @@ Address,Beds,Baths,House Size,Lot Size,Type,Price
 "8 Rockport, Riverview, New Brunswick, E1B5L5",4,4,1838,,"
             Single Family
         ",344900
-"Lot Hillandale Drive, Grand Bay - Westfield, New Brunswick",,,,,"
+"Lot Hillandale Drive, Grand Bay-Westfield, New Brunswick",,,,,"
             Vacant Land
         ",49900
 "176 Sherwood Road, Greater Woodstock, New Brunswick",5,2,2975,,"

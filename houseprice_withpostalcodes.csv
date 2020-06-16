@@ -1,0 +1,721 @@
+Address,Beds,Baths,House Size (sqft),Lot Size (ac),Type,Price,Postal Code
+"10 Robin Dr, Fredericton, New Brunswick, E3C 1K6",5,2,1600,0.177,            Residential        ,259900,E3C 1K6
+"03-2 Glebe Rd, Saint Andrews, New Brunswick",,,,1.14,            Residential        ,11400,E5B2Z5
+"62 Parkin Street, Salisbury, New Brunswick, E4J 2N3",3,2,3790,0.85,            Residential        ,549900,E4J 2N3
+"14 Murray Lane, St. Andrews, New Brunswick",4,2,2200,1.15,            Residential        ,449500,E3L4M6
+"140 Orleans St., Dieppe, New Brunswick, E1A 1W9",4,3,2808,0.124,            Residential        ,236900,E1A 1W9
+"41 Eagle's Passage, Greater Saint Andrews, New Brunswick",3,3,2160,1,            Residential        ,794997,E5B0A9
+"7725 Rte 515, Saint-Paul, New Brunswick",2,1,1350,1,            Residential        ,80000,E4T3R4
+"133 Daigle Rd., Pointe-Sapin, New Brunswick",4,2,2168,0.99,            Residential        ,169900,E9A1T7
+"93 Principale, Memramcook, New Brunswick, E4K 1A7",5,4,5286,6.2,            Residential        ,799900,E4K 1A7
+"294 Carleton St, Saint Andrews, New Brunswick",2,2,1592,0.11,            Residential        ,259000,E5B1P2
+"624 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.134,            Residential        ,264900,E1H 3S7
+"3574 Route 127, Saint Andrews, New Brunswick",,,,11,            Residential        ,110000,E5B2W5
+"517 Canal Rd, St. George, New Brunswick, E5C 1H6",3,2,1560,3.8,            Residential        ,298000,E5C 1H6
+"13 Bulmer Lane, Sackville, NB, Sackville, New Brunswick, E4L 3R3",3,1,1214,0.4,            Residential        ,134900,E4L 3R3
+"175 Daigle Rd, Pointe-Sapin, New Brunswick",1,,880,2.5,            Residential        ,74900,E9A1T7
+"1 Baie Vista CRT, Shediac Cape, New Brunswick, E4P 2Y7",3,2,3440,,            Residential        ,475500,E4P 2Y7
+"5185 Route 127, St. Andrews, New Brunswick",4,2,1675,1.17,            Residential        ,259000,E5B3A7
+"30 Berkley Drive, Riverview, New Brunswick, E1B 2L6",4,3,1735,869,            Residential        ,239900,E1B 2L6
+"Lot 07-02 Comeau Point Rd, Shemogue, New Brunswick, E4N 3B4",,,,1.98,            Residential        ,34900,E4N 3B4
+"48 Augustus St, Saint Andrews, New Brunswick",3,2,1778,0.294,            Residential        ,449000,E5B2E7
+"83 Don-De Dieu Dr, Bayside, New Brunswick",,,,1,            Residential        ,149000,E5B3Y2
+"38 Ernest St, Saint Andrews, New Brunswick",4,3,4362,,            Residential        ,699000,E5B2E1
+"45 Argyle Court, Saint Andrews, New Brunswick",,,,0.219,            Residential        ,64997,E5B2H7
+"34 Maggie Lane, Miramichi, New Brunswick, E1V 6E4",4,3,1249,1,            Residential        ,189900,E1V 6E4
+"133 Daigle Rd., Pointe-Sapin, New Brunswick",4,2,2168,0.99,            Residential        ,169900,E9A1T7
+"13 Bulmer Lane, Sackville, NB, Sackville, New Brunswick, E4L 3R3",3,1,1214,0.4,            Residential        ,134900,E4L 3R3
+"117 Anne's Acres, Bayfield, NB, Murray Corner, New Brunswick",4,3,2691,1.005,            Residential        ,259900,E4M3K8
+"45 Argyle Court, Saint Andrews, New Brunswick",,,,0.219,            Residential        ,64997,E5B2H7
+"38 Ernest St, Saint Andrews, New Brunswick",4,3,4362,,            Residential        ,699000,E5B2E1
+"41 Eagle's Passage, Greater Saint Andrews, New Brunswick",3,3,2160,1,            Residential        ,794997,E5B0A9
+"3574 Route 127, Saint Andrews, New Brunswick",,,,11,            Residential        ,110000,E5B2W5
+"626 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.134,            Residential        ,263900,E1H 3S7
+"66 Neville Street, Fredericton, New Brunswick, E3A4Z5",3,2,2750,,            Single Family        ,239900,E3A4Z5
+"21 Chalets LANE, Richibucto, New Brunswick",2,1,768,,            Single Family        ,224995,E4W5W9
+#NAME?,2,1,576,,            Single Family        ,104500,E4Z2A8
+"103 Canaan Drive, Rusagonis - Waasis, New Brunswick",3,3,2272,,            Single Family        ,279900,E3B0B6
+"26 Brickyard Road, Lepreau, New Brunswick",4,2,,,            Single Family        ,125000,E5J1E4
+"40 Damien Unit 2, Dieppe, New Brunswick, E1A7T2",2,1,935,,            Single Family        ,101500,E1A7T2
+"60 T J McMackin, Greater Salisbury, New Brunswick",1,1,720,,            Single Family        ,86900,E4J2N5
+"298 French Lake Road, French Lake, New Brunswick",3,2,1245,,            Single Family        ,94900,E2V4E2
+"469 Belleisle Shore Road, Kars, New Brunswick",,,,,            Vacant Land        ,169900,E5T3E9
+"181 Route 776, Grand Manan, New Brunswick, E5G1A4",3,2,,,            Single Family        ,179900,E5G1A4
+"421 Ryan RD, Moncton, New Brunswick, E1C2W2",3,2,1350,,            Single Family        ,189900,E1C2W2
+"224 Chapman Road, Newcastle Centre, New Brunswick",3,2,,,            Single Family        ,269900,E4B2M1
+"351 Beausejour, Dieppe, New Brunswick, E1A1Y6",2,1,1176,,            Single Family        ,139900,E1A1Y6
+"43 Camden CRES, Moncton, New Brunswick, E1E4S6",2,3,1720,,            Single Family        ,364900,E1E4S6
+"153 Chatellerault - Spring 2021, Shediac, New Brunswick, E4P 0L2",2,2,1560,,            Residential        ,285000,E4P 0L2
+"305 Hampton Road, Quispamsis, New Brunswick, E2M4M9",4,2,,0.294,            Single Family        ,264900,E2M4M9
+"15 Tiffany AVE, Bouctouche, New Brunswick, E4S3X2",3,2,572,,            Single Family        ,115000,E4S3X2
+"15 Laity DR, Upper Coverdale/Turtle Creek, New Brunswick",3,5,4200,2.76,            Single Family        ,799000,E1J0E3
+"167 Hillcrest Drive, Island View Heights, New Brunswick",3,2,,0.215,            Single Family        ,189900,E2M4C4
+"33 Bellerive RD, Shemogue, New Brunswick",3,1,1000,,            Single Family        ,89900,E4N2V5
+"243 Prince William Street Unit 117, Saint John Centre, New Brunswick",1,1,854,,            Single Family        ,259900,E2L0C6
+"50 Old Bay Road, Oak Bay, New Brunswick",3,1,,,            Single Family        ,124900,E3L3W8
+"159 York ST, Moncton, New Brunswick, E1C2Z1",3,2,1600,,            Multi-family        ,126500,E1C2Z1
+"81 Riverview Drive, Saint John West, New Brunswick",3,2,,,            Single Family        ,128000,E2M2M5
+"3 Wharf Road, Burton, New Brunswick",5,2,,,            Single Family        ,279900,E2V3J7
+"93 Savannah DR, Moncton, New Brunswick, E1A0J5",4,2,1322,,            Single Family        ,285000,E1A0J5
+"1790 Bridge Street, Bathurst, New Brunswick, E2A5X5",,,,,            Vacant Land        ,12500,E2A5X5
+"600 Crafts Cove Road, Wickham, New Brunswick",3,1,800,,            Single Family        ,169900,E5T4Y6
+"471 Paturel ST, Shediac, New Brunswick, E4P2L2",2,1,940,,            Single Family        ,189900,E4P2L2
+#NAME?,,,,,            Vacant Land        ,99900,E2M3G5
+"1026 Barachois, Dieppe, New Brunswick, E1A7S8",4,2,1680,,            Single Family        ,324500,E1A7S8
+"284 Tobias AVE, Riverview, New Brunswick, E1B4W1",4,2,800,,            Single Family        ,249000,E1B4W1
+"13 Alcorn ST, Lakeville, New Brunswick",2,1,856,,            Single Family        ,69900,E1H1H5
+"59 Nugent ST, Dieppe, New Brunswick, E1A0S7",4,3,1348,,            Single Family        ,219500,E1A0S7
+"25 Burnett Street, Oromocto, New Brunswick, E2V0J6",4,3,,,            Single Family        ,360000,E2V0J6
+"9 Hopper, Moncton, New Brunswick, E1C8Y2",4,2,1092,,            Single Family        ,254900,E1C8Y2
+"2358 Route 490, Ammon, New Brunswick, E1G4R7",4,2,1600,,            Single Family        ,264900,E1G4R7
+"183 Riverside Drive, Fredericton, New Brunswick, E3A6R1",,,,,            Vacant Land        ,99900,E3A6R1
+"87 Ridgeline Crescent, Fredericton, New Brunswick, E3C0E0",3,3,,,            Single Family        ,319900,E3C0E0
+"61 Mailhot, Moncton, New Brunswick, E1G1S6",3,2,1000,,            Single Family        ,234900,E1G1S6
+"163 Riverside Drive, Fredericton, New Brunswick, E3A6R1",,,,0.46,            Vacant Land        ,99900,E3A6R1
+"228 Greenwood Drive, Fredericton, New Brunswick, E3A3T7",,,,0.528,            Vacant Land        ,69900,E3A3T7
+"1836 Route 620, Estey's Bridge, New Brunswick",,,,9.04,            Lots and Land        ,69500,E3G6N1
+"22 Pebble Creek, Moncton, New Brunswick, E1E0C8",5,3,1519,,            Single Family        ,369900,E1E0C8
+"33 Bellerive RD, Shemogue, New Brunswick",3,1,1000,,            Single Family        ,89900,E4N2V5
+"Lot 14-5 Route 112, Canaan Forks, New Brunswick",,,,,            Vacant Land        ,17500,E4Z6B2
+"409 Paturel, Shediac, New Brunswick, E4P2L2",3,2,1768,,            Single Family        ,384900,E4P2L2
+"13 Sussex Drive, Pokiok, New Brunswick",3,2,1600,,            Single Family        ,109900,E2K1Y7
+#NAME?,,,,1.014,            Vacant Land        ,7500,E5R1L8
+"2 Bickerton AVE, Sackville, New Brunswick, E4L3M7",4,2,2122,,            Single Family        ,248800,E4L3M7
+"15 Laity DR, Upper Coverdale/Turtle Creek, New Brunswick",3,5,4200,,            Single Family        ,799000,E1J0E3
+"Lot Boyne Road, Hoyt, New Brunswick",,,,,            Vacant Land        ,25000,E5L2G5
+"16 Shemogue Rd., Port Elgin, New Brunswick, E4M 1C3",4,1,1771,,            Residential        ,119996,E4M 1C3
+"180 Marie, Beresford, New Brunswick, E8K1P8",3,2,,,            Single Family        ,295000,E8K1P8
+"3 Route 1127, Harvey, New Brunswick, E6K2S5",3,2,1962,,            Single Family        ,229900,E6K2S5
+"87 Ridgeline Crescent, Fredericton, New Brunswick, E3C0E0",3,3,,,            Single Family        ,319900,E3C0E0
+"27 Corbett Ave, Fredericton, New Brunswick, E3A 3X3",3,1,1209,0.195,            Residential        ,144900,E3A 3X3
+"1790 Bridge Street, Bathurst, New Brunswick, E2A5X5",,,,,            Vacant Land        ,12500,E2A5X5
+"167 Hillcrest Drive, Island View Heights, New Brunswick",3,2,,0.215,            Single Family        ,189900,E2M4C4
+"469 Belleisle Shore Road, Kars, New Brunswick",,,,,            Vacant Land        ,169900,E5T3E9
+"21 Elgin Road, Forest Hills, New Brunswick",4,1,1708,,            Single Family        ,159700,E2Y2Y6
+"183 Riverside Drive, Fredericton, New Brunswick, E3A6R1",,,,,            Vacant Land        ,99900,E3A6R1
+"66 Neville Street, Fredericton, New Brunswick, E3A4Z5",3,2,2750,,            Single Family        ,239900,E3A4Z5
+"60 T J McMackin, Greater Salisbury, New Brunswick",1,1,720,,            Single Family        ,86900,E4J2N5
+"102 Glebe Road, Chamcook, New Brunswick",2,1,,,            Single Family        ,199000,E5B3C3
+"452 Douglas Avenue, Indiantown, New Brunswick",5,2,,,            Single Family        ,149900,E2K1G1
+"210 - 500 Venus Crt., Fredericton, New Brunswick, E3B 3A9",1,1,1138,,            Residential        ,144500,E3B 3A9
+"138 Nevers Road, Nevers Road, New Brunswick",2,1,840,,            Single Family        ,134900,E3B8R4
+"9 Hopper, Moncton, New Brunswick, E1C8Y2",4,2,1092,,            Single Family        ,254900,E1C8Y2
+"51 Ridgewood Drive, Sackville, NB, Sackville, New Brunswick, E4L 4T5",5,3,2728,1.173,            Residential        ,339900,E4L 4T5
+"59 Nugent ST, Dieppe, New Brunswick, E1A0S7",4,3,1348,,            Single Family        ,219500,E1A0S7
+"50 Old Bay Road, Oak Bay, New Brunswick",3,1,,,            Single Family        ,124900,E3L3W8
+"21 Chalets LANE, Richibucto, New Brunswick",2,1,768,,            Single Family        ,224995,E4W5W9
+"224 Chapman Road, Newcastle Centre, New Brunswick",3,2,,,            Single Family        ,269900,E4B2M1
+#NAME?,,,,,            Vacant Land        ,99900,E2M3G5
+"40 Damien Unit 2, Dieppe, New Brunswick, E1A7T2",2,1,935,,            Single Family        ,101500,E1A7T2
+"284 Tobias AVE, Riverview, New Brunswick, E1B4W1",4,2,800,,            Single Family        ,249000,E1B4W1
+"305 Hampton Road, Quispamsis, New Brunswick, E2M4M9",4,2,,0.294,            Single Family        ,264900,E2M4M9
+"53 Evergreen Street, Fredericton, New Brunswick, E3B6N1",3,2,1152,,            Single Family        ,72900,E3B6N1
+"1226 Riverside Drive, Bathurst, New Brunswick, E2A4X2",4,2,2800,,            Single Family        ,239900,E2A4X2
+"61 Mailhot, Moncton, New Brunswick, E1G1S6",3,2,1000,,            Single Family        ,234900,E1G1S6
+"8 Beattie, Rexton, New Brunswick, E4W1W5",3,2,1566,,            Single Family        ,205000,E4W1W5
+"16 Rockingstone Drive, Bayshore, New Brunswick",2,3,1566,,            Single Family        ,199900,E2M0B5
+"2358 Route 490, Ammon, New Brunswick, E1G4R7",4,2,1600,,            Single Family        ,264900,E1G4R7
+"351 Beausejour, Dieppe, New Brunswick, E1A1Y6",2,1,1176,,            Single Family        ,139900,E1A1Y6
+"421 Ryan RD, Moncton, New Brunswick, E1C2W2",3,2,1350,,            Single Family        ,189900,E1C2W2
+"1828 Westfield Road, Acamac, New Brunswick",3,1,1250,,            Single Family        ,149900,E2M6N1
+"13 Alcorn ST, Lakeville, New Brunswick",2,1,856,,            Single Family        ,69900,E1H1H5
+"103 Canaan Drive, Rusagonis - Waasis, New Brunswick",3,3,2272,,            Single Family        ,279900,E3B0B6
+"150 Alma Unit 2, Moncton, New Brunswick, E1C4Y7",2,2,1584,,            Single Family        ,228500,E1C4Y7
+"93 Savannah DR, Moncton, New Brunswick, E1A0J5",4,2,1322,,            Single Family        ,285000,E1A0J5
+"3751 Principale Street, Baker - Brook, New Brunswick",,,,,            Single Family        ,65000,E7A2A5
+"Lot Route 490, Fords Mills, New Brunswick",,,256,,            Single Family        ,34000,E4W3R9
+"400 East Glassvile Road, Glassville, New Brunswick",3,2,,,            Single Family        ,189000,E7L1W1
+"44 Silas Lewis RD, Greater Salisbury, New Brunswick",2,1,1100,,            Single Family        ,145000,E4J3B9
+"207 King Street Unit 6, Saint John Centre, New Brunswick",2,1,,,            Single Family        ,119000,E2L1H2
+"65 Meghan, Riverview, New Brunswick, E1B4E4",4,2,960,,            Single Family        ,186500,E1B4E4
+"368 Princess, Bathurst, New Brunswick, E2A2R5",4,2,,,            Single Family        ,74900,E2A2R5
+"81 Riverview Drive, Saint John West, New Brunswick",3,2,,,            Single Family        ,128000,E2M2M5
+"40 Rose Street, St. Stephen, New Brunswick",4,2,,,            Residential        ,189900,E3L2P9
+"591 Route 935, Wood Point, NB, Greater Sackville, New Brunswick",4,2,2600,3,            Residential        ,189900,E4L2K7
+"Lamberts Rd, Lambert's Cove, Deer Island, New Brunswick",,,,1.3,            Lots And Land        ,25000,E5V1E2
+"81 Union Street, St. Stephen, New Brunswick",4,2,,,            Residential        ,289900,E3L1V2
+"23 verte, Dieppe, New Brunswick, E1A2E1",2,,1370,,            Residential        ,269900,E1A2E1
+"46 Guy, Shediac, New Brunswick, E4P 0L5",3,2,1456,,            Residential        ,283000,E4P 0L5
+"2 Coady Street, Miramichi, New Brunswick, E1N 5X9",5,2,1233,0.551,            Residential        ,179900,E1N 5X9
+"2993 Main St., Hillsborough, New Brunswick, E4H 2X9",3,1,1232,,            Residential        ,126500,E4H 2X9
+"20 Heathfield Court , Moncton, New Brunswick, E1A 0J1",3,2,1950,,            Residential        ,459500,E1A 0J1
+"43 Laforest - Spring 2020, Shediac, New Brunswick, E4P 0R8",3,2,1423,,            Residential        ,230000,E4P 0R8
+"169 Malakoff  Rd, Scoudouc, New Brunswick, E4P 1A9",3,2,2181,3,            Residential        ,399900,E4P 1A9
+"87 Fraser Street, Saint Stephen, New Brunswick, E3L 4B5",2,1,,,            Residential        ,39000,E3L 4B5
+"178 C K Justason Lane, Pennfield, New Brunswick",3,3,,,            Residential        ,299900,E5H1S2
+"87 Fraser Street, Saint Stephen, New Brunswick, E3L 4B5",2,1,,,            Residential        ,39000,E3L 4B5
+"178 C K Justason Lane, Pennfield, New Brunswick",3,3,,,            Residential        ,299900,E5H1S2
+"400 South Canaan Road, South Canaan, New Brunswick",1,1,908,5,            Other        ,59900,E4C4J2
+"- Route 750, Dennis-Weston, New Brunswick",,,,,            Lots And Land        ,35000,E3L4T1
+"12-9 Hills Point Road, Oak Bay, New Brunswick",,,,,            Lots And Land        ,39900,E3L4H7
+"2522 NB 895, Elgin, New Brunswick, E4Z 2R2",,,,95.88,            Residential        ,275000,E4Z 2R2
+"93 Bethany Drive, Rusagonis - Waasis, New Brunswick",5,3,1505,0.995,            Residential        ,324900,E3B8W6
+"18 Queensway, St. Stephen, New Brunswick, E3L 1L2",3,2,1348,0.73,            Residential        ,149900,E3L 1L2
+"84 Colpitts Rd, Cocagne, New Brunswick, E4R 2L4",2,1,820,,            Residential        ,94000,E4R 2L4
+"1301 Route 127, Rollingdam, New Brunswick",4,1,,,            Residential        ,124900,E5A2W4
+"Lot 18-2 Route 960, Cape Spear, NB, Port Elgin, New Brunswick",,,,2.75,            Lots And Land        ,79900,E4M2S1
+"Woodlot on Route 118, Miramichi, New Brunswick",,,,,            Lots And Land        ,39900,
+"1184 Salisbury Rd, Moncton, New Brunswick, E1E 3W1",2,2,4978,0.311,            Residential        ,225000,E1E 3W1
+"2479 Route 106, Steeves Mountain, New Brunswick",4,1,1248,0.5,            Residential        ,169900,E1G4B3
+"Lot Goymers Lane, Bay du Vin, Black River - Hardwicke, New Brunswick",,,,1.228,            Lots And Land        ,29900,E1M5M3
+"Lot Poirier Office RD Notre Dame, Irishtown, New Brunswick",,,,,            Residential        ,23000,E4V3G6
+"15 Dow Street, St. Stephen, New Brunswick",3,2,,,            Residential        ,267000,E3L1R4
+"31 Queens, Sackville, NB, Sackville, New Brunswick, E4L 4G4",6,3,4000,0.7,            Residential        ,224900,E4L 4G4
+"35 Morey Brow Road, Deer Island, New Brunswick",1,,320,0.66,            Residential        ,51999,E5V1R5
+"- Mcgaw Hill Route 745, Oak Hill, New Brunswick",,,,,            Lots And Land        ,15000,E5A2C9
+"21 Hambrook Point, Miramichi, New Brunswick, E9C 2C1",,,,1.3,            Lots And Land        ,34500,E9C 2C1
+"96 Todds Point Road, Saint Stephen, New Brunswick",4,3,,,            Residential        ,269000,E3L3P9
+"Lot 03-6 off of Route 108, Midnight Lane, Miramichi, New Brunswick, E9E 2N4",2,1,768,1.04,            Residential        ,89900,E9E 2N4
+"15-4 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,75000,E3A1X5
+"73 Pollett River Road, Petitcodiac, New Brunswick, E4Z 4P6",2,1,1120,0.321,            Residential        ,134900,E4Z 4P6
+"23 Acre Lot Wellington, Miramichi, New Brunswick, E1N 3L4",,,,23,            Lots And Land        ,27000,E1N 3L4
+"23 Better Homes Dr, Greater New Maryland, New Brunswick",4,2,,1.17,            Residential        ,329900,E3C0G6
+"92 Marks Street, St. Stephen, New Brunswick",3,1,,,            Residential        ,99000,E3L2B5
+"234 Scott Road, Saint Stephen, New Brunswick",2,1,,,            Residential        ,55000,E5A1P4
+"1 Tyrells Point Rd, Miramichi, New Brunswick, E1N 3K6",4,3,3092,1.3,            Residential        ,279900,E1N 3K6
+"735 Bellefond Road, Miramichi, New Brunswick",,,,2,            Lots And Land        ,11500,E1V4V1
+"No address available, Miramichi, New Brunswick, E9A 1L2",,,,3.9,            Lots And Land        ,59900,E9A 1L2
+"15-6 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,50000,E3A1X5
+"24 Thompson Avenue, St. Stephen, New Brunswick",3,1,,,            Residential        ,198900,E3L2M1
+"51 Main Street, St. Stephen, New Brunswick",2,1,,,            Residential        ,69000,E3L1Z5
+"167 Todd's Point Road, Dufferin, New Brunswick",3,2,4026,,            Residential        ,295500,E3L3R6
+"24 Union Street, Sackville, NB, Sackville, New Brunswick, E4L 4Mw",6,2,2200,0.3,            Residential        ,139900,E4L 4Mw
+"9069 Route 3, Saint Stephen, New Brunswick, E3L 4W6",4,2,,,            Residential        ,199500,E3L 4W6
+"Rte 117 Hardwicke Lot 01-4, Miramichi, New Brunswick, E9A 1K1",,,,2.056,            Residential        ,49000,E9A 1K1
+"614 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.13,            Residential        ,264900,E1H 3S7
+"Rrichardson Road, Deer Island, New Brunswick",,,,19.5,            Lots And Land        ,98000,E5V1J2
+"3888 Rte 620 Tay Creek, Greater Estey's Bridge, New Brunswick",2,2,1800,5,            Residential        ,183500,E3G6K8
+"100 Winterport Way, Fredericton, New Brunswick",6,4,2400,1.9,            Residential        ,499900,E3A1X5
+"2511 Route 774, Campobello Island, New Brunswick",5,1,2100,0.31,            Residential        ,143900,E5E1L7
+"98-17 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,50000,E5B3G5
+#NAME?,,,,,            Lots And Land        ,89000,E5B1R9
+"415 Shediac Rd, Moncton, New Brunswick, E1A 2T2",,,,,            Residential        ,165000,E1A 2T2
+"4973 Route 112, Greater Salisbury, New Brunswick",,,,1.6,            Lots And Land        ,14900,E4Z5T5
+"98-17 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,50000,E5B3G5
+#NAME?,,,,,            Lots And Land        ,89000,E5B1R9
+"415 Shediac Rd, Moncton, New Brunswick, E1A 2T2",,,,,            Residential        ,165000,E1A 2T2
+"4973 Route 112, Greater Salisbury, New Brunswick",,,,1.6,            Lots And Land        ,14900,E4Z5T5
+"9 Bromfield, Moncton, New Brunswick, E1G0N7",,,,1.2,            Lots And Land        ,189900,E1G0N7
+"25 Gilman Lane, St. Stephen, New Brunswick",5,2,1450,,            Residential        ,415000,E3L4J3
+"161 Nowlanville Road, Miramichi, New Brunswick, E1N 4W3",4,2,1680,17.4,            Residential        ,209000,E1N 4W3
+"Lot, Queens Road, Sackville, NB, Sackville, New Brunswick, E4L 2B3",,,,0.617,            Lots And Land        ,59000,E4L 2B3
+"15-3 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,35000,E3A1X5
+"62 Patricia, Riverview, New Brunswick, E1B5C8",,2,3221,,            Residential        ,359900,E1B5C8
+"- Oak Hill Road, Saint Stephen, New Brunswick, E5A 2E9",,,,,            Lots And Land        ,39900,E5A 2E9
+"64-66 Horsman Street, Salisbury, New Brunswick, E4J 2H4",7,2,3256,,            MultiFamily        ,149900,E4J 2H4
+"8 Ocean breeze drive, Grand Barachois, New Brunswick, E4P 7X2",3,2,3000,1.4,            Residential        ,439900,E4P 7X2
+"12 Lisgar Street, St. Stephen, New Brunswick",4,2,,,            Residential        ,199900,E3L2T4
+#NAME?,,,,,            Lots And Land        ,13900,E5C3E6
+"62 Mia Circle, Fredericton, New Brunswick, E3A 7N5",3,2,2009,,            Residential        ,259900,E3A 7N5
+"63 Jack Road, Pennfield, New Brunswick",3,2,4028,,            Residential        ,459000,E5H1X2
+"20 Route 960, Cape Tormentine, NB, Cape Tormentine, New Brunswick",3,1,1152,2.036,            Residential        ,229900,E4M2C6
+"- Route 750, Dennis-Weston, New Brunswick",,,,,            Lots And Land        ,35000,E3L4T1
+"46 Main Street A, St. Stephen, New Brunswick",,,,,            Lots And Land        ,20000,E3L1Z5
+"60 Mill Road, St.Stephen, New Brunswick",2,1,1148,1,            Residential        ,169999,E3L1K4
+"LOT Rte 117, Escuminac, New Brunswick",,,,0.337,            Lots And Land        ,9900,E9A1R6
+"69 Evergreen Dr., Shediac, New Brunswick, E4P 1R9",5,3,3652,,            Residential        ,369000,E4P 1R9
+"1054 rue Centrale, Memramcook, New Brunswick",3,3,2496,1,            Residential        ,144900,E4K3T6
+"1102 NB RTE 890, Newtown, New Brunswick",,,,697,            Residential        ,1530000,E4G1M2
+"88-6 Oceanview Lane, Upper Cape, NB, Upper Cape, New Brunswick",,,,1.116,            Lots And Land        ,47000,E4M2T8
+"2.5 ACRE LOT, Rte 117 Escuminac, Miramichi, New Brunswick, E9A 1V7",,,,4,            Lots And Land        ,9900,E9A 1V7
+"23 MacTavish Street, Miramichi, New Brunswick, E1V 6A6",2,1,1008,,            Residential        ,54000,E1V 6A6
+"Ghost Rd, Saint Andrews, New Brunswick",,,,10,            Residential        ,70000,E5B2T2
+"30 Telly Road, Miramichi, New Brunswick",2,1,924,1,            Residential        ,49900,E1V4R9
+"4 Denully Court, St. Stephen, New Brunswick, E3L 1P7",4,2,1100,0.24,            Residential        ,169900,E3L 1P7
+"98-7 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,199900,E5B3G5
+"60 Champion, Dieppe, New Brunswick, E1A9E8",5,3,3811,0.474,            Residential        ,649900,E1A9E8
+"2100 Bridletowne Cir, Clarks Corners, New Brunswick",3,2,1390,,            Residential        ,820000,
+"56 Satinwood, Pointe-du-Chene, New Brunswick",2,1,702,0.103,            Residential        ,149500,E4P5B7
+"612 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.13,            Residential        ,264900,E1H 3S7
+"15-5 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,90000,E3A1X5
+"45 Frier St., Moncton, New Brunswick, E1A 4L7",4,2,1860,,            Residential        ,159900,E1A 4L7
+"82-3 Ocean Breeze Dr., Grand Barachois, New Brunswick, E4P 7X3",,,,1,            Lots And Land        ,80000,E4P 7X3
+"81 Harbour View Lane, Greater Saint Andrews, New Brunswick",4,5,,,            Residential        ,715500,E5B3G8
+"458 Luciphy Road, Jolicure, NB, Pointe de Bute, New Brunswick",2,1,1024,2.891,            Residential        ,115900,E4L4S6
+"22 Porter Street, St. Stephen, New Brunswick",3,1,1650,,            Residential        ,109000,E3L2M7
+"28 Abbott Street, St. Stephen, New Brunswick",4,2,4024,,            Residential        ,178500,E3L3C4
+"638 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.12,            Residential        ,260900,E1H 3S7
+"10887 Route 430, Trout Brook, New Brunswick",2,1,945,5,            Residential        ,59000,E9E1P8
+"30 Cranberry Lane, Noonan, New Brunswick",4,3,2400,1.53,            Residential        ,289900,E3A0H3
+"Lot 01-5, Rte 117 Hardwicke, Miramichi, New Brunswick, E9A 1K1",,,,7,            Lots And Land        ,49900,E9A 1K1
+"9 Murchie Avenue, St. Stephen, New Brunswick, E3L 1E2",4,2,1944,0.18,            Residential        ,129000,E3L 1E2
+"184 Route 176, Pennfield, New Brunswick",4,1,,,            Residential        ,39950,E5H1T9
+"47 Prince William Street, St. Stephen, New Brunswick, E3L 1S5",3,3,1740,2,            Residential        ,339000,E3L 1S5
+#NAME?,,,,,            Lots And Land        ,139900,E5C1N0
+"156 Tower Hill Road, Saint Stephen, New Brunswick",4,2,,,            Residential        ,144900,E5A2P9
+"186 Williston Road, Miramichi, New Brunswick, E1V 5W9",3,1,1008,0.358,            Residential        ,159900,E1V 5W9
+"1166 Mascarene Road, Greater St. George, New Brunswick",3,2,,,            Residential        ,89900,E5C3E6
+"85-66 & 85-70 Maple Leaf Crt, Campobello Island, New Brunswick",,,,3.5,            Residential        ,39900,E5E1Z4
+"59 Chatellerault, Shediac, New Brunswick, E4P 0L5",3,2,1522,,            Residential        ,289000,E4P 0L5
+"Old Saint John Road, St. George, New Brunswick",,,,220,            Lots And Land        ,60000,E2M2B3
+"29 Mountain Side, Deer Island, New Brunswick",4,2,1550,6.84,            Residential        ,399900,E5V1G3
+"Haute Aboujagane Land, Haute Aboujagane, New Brunswick",,,,,            Residential        ,43000,E4P5M8
+"07- 5 Route 960, Cape Spear, NB, Cape Spear, New Brunswick",,,,3,            Lots And Land        ,99900,E4M0A3
+"Lot B Vacant Land Rte 170, Oak Bay, New Brunswick",,,,,            Lots And Land        ,25000,E3L3X8
+"12 Acre Lot, Rte 117, Baie Ste. Anne, New Brunswick",,,,12,            Lots And Land        ,49900,E9A1L2
+"50 Assomption, Moncton, New Brunswick, E1C0C5",2,2,1102,,            Condominium        ,199900,E1C0C5
+"75 Church Street, Sackville, NB, Sackville, New Brunswick, E4L 2Y8",,,,0.287,            Lots And Land        ,19000,E4L 2Y8
+#NAME?,,,,,            Lots And Land        ,8000,E5A1V9
+"7 ACRES, SANDY PT RD, (Ch. Pointe aux Sable), Miramichi, New Brunswick, E9A 1J4",,,,7,            Lots And Land        ,40000,E9A 1J4
+"10 Murray Lane, Oak Bay, New Brunswick",4,3,2069,1.29,            Residential        ,464900,E3L4H9
+#NAME?,,,,,            Lots And Land        ,345000,E5B3Y1
+#NAME?,,,,,            Lots And Land        ,23500,E3L4N1
+"20 Board Road Extension, Oak Bay, New Brunswick",2,1,,,            Residential        ,299000,E3L4K4
+"62 Irene - Spring 2020, Shediac, New Brunswick, E4P0S4",3,2,1423,,            Residential        ,230000,E4P0S4
+"Colpitts Road, Colpitts Settlement, New Brunswick",,,,6.35,            Residential        ,29900,E4J3G4
+"Colpitts Road, Colpitts Settlement, New Brunswick",,,,6.35,            Residential        ,29900,E4J3G4
+"637 Route 170 Route, Oak Bay, New Brunswick",5,2,,,            Residential        ,169900,E3L4C3
+"15 Church St., Port Elgin, New Brunswick, E4M 2E1",3,1,1350,,            Residential        ,92000,E4M 2E1
+"Manhurst Cross Road - Lot 1, Sussex, New Brunswick",,,,1.5,            Lots And Land        ,9900,E4G1G6
+"32 King Street, St. Stephen, New Brunswick",,,,,            Lots And Land        ,99000,E3L2Y6
+"Lot 01-2 Rte 117, Hardwicke Road, Black River - Hardwicke, New Brunswick",,,,7,            Lots And Land        ,49900,E9A1K2
+"Lot # 85-139, Campobello Island, New Brunswick",,,,1.21,            Lots And Land        ,25000,E5E1X2
+"79 Moody's Shore Road, Bass River, New Brunswick",2,1,900,0.959,            Other        ,245000,E4T1C7
+"Shore Lot 3+3A Baron Lane, Dufferin, New Brunswick",,,,,            Lots And Land        ,139000,E3L3R7
+"42 Laforest - Spring 2020, Shediac, New Brunswick, E4P 0R8",3,1,1488,,            Residential        ,255000,E4P 0R8
+"4639 Route 114, Shepody, New Brunswick",4,1,1632,1.55,            Residential        ,124900,E4H4J8
+"640 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.12,            Residential        ,260900,E1H 3S7
+"Gum Road, Miramichi, New Brunswick",,,,34.59,            Lots And Land        ,19900,E1V7H1
+"5 Birchwood Court, St. Stephen, New Brunswick",3,2,,,            Residential        ,198000,E3L2V2
+"19 Lakeshore Drive, Sackville, NB, Sackville, New Brunswick, E4L 3A3",4,4,3131,,            Residential        ,474900,E4L 3A3
+"Camp and Land, Centre Village, NB, Greater Sackville, New Brunswick",2,,256,,            Other        ,49900,E4L 1X9
+"370 Sweeney Lane, Miramichi, New Brunswick, E1V 3B1",3,1,1540,0.122,            Residential        ,67900,E1V 3B1
+"13 Ledgewood Drive, Crocker Hill, New Brunswick",3,1,2844,,            Residential        ,169500,E3L3Z7
+"98-3 Bayview Boulevard, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,189900,E5B3G4
+"47 Queen Street East, St. Stephen, New Brunswick",3,3,1636,,            Residential        ,174500,E3L2J5
+"Lot 89-2, Route 445, Fair Isle, New Brunswick",,,,2.44,            Lots And Land        ,13400,E9G2M7
+"360 Colpitts Road, Colpitts Settlement, New Brunswick",3,2,2064,8.2,            Residential        ,244900,E4J1B6
+"87-3 Pine Point Road, Saint Stephen, New Brunswick, E3L 3N6",,,,,            Lots And Land        ,179000,E3L 3N6
+"202 Woodbine Lane, Kingsclear, New Brunswick, E3E 1S5",4,3,1202,1.41,            Residential        ,459900,E3E 1S5
+"98-2 Bayview Boulevard, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,189900,E5B3G4
+"28 Erinvale Drive, Moncton, New Brunswick, E1A 9N6",5,4,5880,0.485,            Residential        ,1090000,E1A 9N6
+"100 Second Street, Rothesay, New Brunswick, E2H 1M5",4,3,3350,0.334,            Residential        ,389900,E2H 1M5
+"133 York St, Moncton, New Brunswick, E1C 2Z1",3,2,2443,0.098,            Residential        ,164900,E1C 2Z1
+"Vacant Lot, Route 960, Cape Spear, NB, Cape Spear, New Brunswick",,,,2.1,            Residential        ,109900,E4M3W9
+"Lot Union Street, St. Stephen, New Brunswick",,,,,            Lots And Land        ,69000,E3L1T2
+"27 Spring Street, St. Stephen, New Brunswick, E3L 1K6",3,1,1229,0.38,            Residential        ,89900,E3L 1K6
+"Route 885 - Lot, Greater Salisbury, New Brunswick",,,,,            Lots And Land        ,19900,E4J1T6
+"98-1 Bayview Boulevard, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,145000,E5B3G4
+"274 Milltown Boulevard, St. Stephen, New Brunswick",4,2,,,            Residential        ,249500,E3L1H6
+"Herring Cove Road, Campobello Island, New Brunswick, E5E 1C3",,,,10,            Lots And Land        ,350000,E5E 1C3
+"208 Upper Mills Road, Greater Saint Stephen, New Brunswick",2,1,,,            Residential        ,79500,E3L3E8
+"415 Beckwith Road, Greater Salisbury, New Brunswick",2,2,1980,4,            Residential        ,224900,E4Z3J3
+"65 North Road, Campobello Island, New Brunswick",7,2,3700,1.8,            Residential        ,495000,E5E1A1
+"876 Route 172, Greater St. George, New Brunswick",2,1,,,            Residential        ,89500,E5C3E6
+"41 Granada Ave, Fredericton, New Brunswick, E3A 9T6",6,3,1160,0.161,            Residential        ,289900,E3A 9T6
+"29 Flint Court, Moncton, New Brunswick",4,3,,0.09,            Residential        ,399900,E1G2H3
+"88 Woods Terrace, Unit #201, Moncton, New Brunswick, E1G 1X6",2,2,1298,,            Condominium        ,254900,E1G 1X6
+"Lot 85-68 Fern Drive, Campobello Island, New Brunswick, E5E 1C1",,,,1,            Lots And Land        ,25000,E5E 1C1
+"51 ALEX JACK DETOUR Road, Utopia, New Brunswick",3,2,,,            Residential        ,295000,E5C2G4
+"225 Serenity Lane, Fredericton, New Brunswick, E3B 0H1",2,1,1400,,            Condominium        ,124900,E3B 0H1
+"21 Whispering Pines Lane, Crocker Hill, New Brunswick",2,2,,,            Residential        ,289900,E3L0A1
+"Murray Road Bartletts Mills, St. Andrews, New Brunswick",,,,44,            Lots And Land        ,10000,E5B2Y8
+"16 tower Road, Cape Tormentine, NB, Cape Tormentine, New Brunswick",,,,1.394,            Lots And Land        ,69900,E4M0C4
+"175 Anderson Mill Road, Memramcook, NB, Memramcook, New Brunswick, E4K 2G5",2,1,960,,            Residential        ,63000,E4K 2G5
+"Manhurst Cross Road - Lot 2, Greater Havelock, New Brunswick",,,,1.5,            Lots And Land        ,9900,E4Z5S8
+"Lot 1 & 2, Collins Lake Road, Shemogue, NB, Shemogue, New Brunswick, E4N 2N1",,,,51,            Lots And Land        ,29900,E4N 2N1
+"Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3L2",,,,,            Residential        ,48900,E1H 3L2
+"LOT 2006-4 Carl Avenue, Greater Kingsclear, New Brunswick",,,,,            Lots And Land        ,99000,E6K2W9
+"Knightville Road, Knightville, New Brunswick",,,,,            Farm And Agriculture        ,715000,E4G1E7
+"278 Manor Road, St. George, New Brunswick, E5C 2J4",,,,,            Lots And Land        ,17000,E5C 2J4
+"4 Mcadam Court, St. Stephen, New Brunswick",4,2,,,            Residential        ,169900,E3L3G6
+"63 Balsam Ave, Noonan, New Brunswick",,,,1.3,            Lots And Land        ,39900,E3A0J8
+"Deer Island Point  Route 772, Deer Island, New Brunswick",,,,18,            Lots And Land        ,139000,E5V1G5
+"106  Fraser Street, St. Stephen, New Brunswick",2,1,840,,            Other        ,45000,E2L4J7
+#NAME?,,,,,            Lots And Land        ,149900,E5B2Y7
+"124 Queen Street West, St. Stephen, New Brunswick",,,,,            MultiFamily        ,99000,E3L2L2
+"963 Forest Hill Rd, Fredericton, New Brunswick, E3B 7G6",3,2,,0.226,            Residential        ,309900,E3B 7G6
+"13 Abbott, Saint Stephen, New Brunswick, E2L 3C4",3,1,,,            Residential        ,210000,E2L 3C4
+"799 Route 11, Miramichi, New Brunswick, E1V 7C9",2,1,616,0.253,            Other        ,29000,E1V 7C9
+"Lot 15-2 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,45000,E3A8H4
+"254 Ledge Road, Crocker Hill, New Brunswick",3,2,,,            Residential        ,219000,E3L3Z3
+"20 Cape Spear Cross Road, Cape Spear, NB, Cape Spear, New Brunswick",3,2,1120,80,            Residential        ,189900,E4M1E8
+"15 Will Blakney Road, Greater Salisbury, New Brunswick",3,1,1960,2.9,            Residential        ,249900,E4J3K7
+"44 Meadow Lane, Sackville, NB, Sackville, New Brunswick, E4L 0A1",,,,0.365,            Residential        ,42500,E4L 0A1
+"1390 Route 770, St. George, New Brunswick, E5C 1E8",2,1,,,            Residential        ,79900,E5C 1E8
+"15 Pyne, Miramichi, New Brunswick",8,4,2688,0.308,            MultiFamily        ,99900,E1N2X7
+"40 Mill Road, Elgin, New Brunswick, E4Z 2A6",3,1,1248,0.5,            Residential        ,109900,E4Z 2A6
+"65 Howard Street, Miramichi, New Brunswick, E1N 1V7",4,2,1728,0.095,            Residential        ,109900,E1N 1V7
+"Lot 6 Upper Durham Road, Upper Durham, New Brunswick",,,,1,            Lots And Land        ,16700,E6C1B3
+"4780 Route 106, Middleton, NB, Dorchester, New Brunswick, E4K 3H7",3,2,2204,1.21,            Residential        ,84900,E4K 3H7
+"Lot Upper Mills Road, Greater Saint Stephen, New Brunswick",,,,,            Lots And Land        ,48000,E7L5X7
+"Old Saint John Road, Lepreau, New Brunswick",,,,225,            Lots And Land        ,139000,E5J1M5
+"991 Portage Vale Road, Portage Vale, New Brunswick",,,,2,            Lots And Land        ,17500,E4Z3E4
+"Land Paradox Point, Bocabec, New Brunswick",,,,,            Lots And Land        ,199500,E5B3Y1
+"Lot 01-3, Rte 117, Black River - Hardwicke, New Brunswick",,,,7,            Residential        ,49900,E9A1L7
+"127 King Street, St. Stephen, New Brunswick",4,2,,,            Residential        ,119900,E3L2H9
+"601 Anagance Ridge Road, Greater Havelock, New Brunswick",4,2,2592,1,            Residential        ,234900,E4Z2T7
+"98-16 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,60000,E5B3G6
+"175 Ledden Street, Miramichi, New Brunswick, E1V 2G8",4,2,1780,0.134,            Residential        ,104200,E1V 2G8
+"1449 Amirault, Dieppe, New Brunswick, E1A4T4",4,1,1405,0.145,            Residential        ,180000,E1A4T4
+"130 Paradox Point, Bocabec, New Brunswick",4,5,,,            Residential        ,998500,E5B3X1
+"105 West Lane, Moncton, New Brunswick, E1C 6T8",,,,,            Residential        ,139900,E1C 6T8
+"512 Canada Street, Fredericton, New Brunswick, E3A  4A7",3,2,1440,0.304,            Residential        ,175000,E3A4A7
+"10 McLaren Dr, Saint Andrews, New Brunswick",,,,1.22,            Residential        ,29000,E5B3E3
+"40 Jessica, Fredericton, New Brunswick",4,2,1996,2.132,            Residential        ,259900,E3A6T7
+"682 Memramcook East, Memramcook, New Brunswick, E4K 1N1",4,1,1545,1.9,            Residential        ,75900,E4K 1N1
+"3771 Route 535, Cocagne, New Brunswick",3,1,1824,,            Residential        ,189900,E4R3E7
+"2  Scovil Street, Deer Island, New Brunswick",4,1,1272,0.028,            Residential        ,129000,E5V1V8
+"238 Ledge Road, St. Stephen, New Brunswick",4,4,3645,23,            Residential        ,329000,E3L3Z4
+"Land Bunker Hill Road, Campobello Island, New Brunswick",,,,2.8,            Lots And Land        ,9900,E5E1M3
+"68 Acres Welfield Road, Miramichi, New Brunswick",,,,68,            Lots And Land        ,35000,E1V3K3
+"95 McGregor St., Fredericton, New Brunswick, E3A 7V5",,,,0.212,            Lots And Land        ,42500,E3A 7V5
+"32 Laforest - Spring 2020, Shediac, New Brunswick, E4P 0R8",3,1,1277,,            Residential        ,223000,E4P 0R8
+"Deer Island Point Road, Deer Island, New Brunswick",,,,1.34,            Lots And Land        ,79900,E5V1T4
+"547 Main, Blacks Harbour, New Brunswick, E5H1B9",4,2,,,            Residential        ,102000,E5H1B9
+"Lot 05-1 Wellington St, Miramichi, New Brunswick, E1N 3L4",,,,0.494,            Lots And Land        ,25000,E1N 3L4
+"98-14 Bayview Boulevard, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,70000,E5B3G6
+"98-13 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,99000,E5B3G5
+"183 St. Patrick's Drive, Miramichi, New Brunswick, E1N 5X4",2,1,870,0.379,            Residential        ,89000,E1N 5X4
+"650 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.102,            Residential        ,259900,E1H 3S7
+"Lot 1 Murdock Rd, Miramichi, New Brunswick, E1N 4Y9",,,,10.3,            Lots And Land        ,19900,E1N 4Y9
+"966 Bourque road, Dieppe, New Brunswick, E1A7L3",6,3,5250,2.15,            Residential        ,850000,E1A7L3
+"118 Route 735, Western Charlotte, New Brunswick",2,2,960,1.17,            Residential        ,144000,E3L5E6
+"7453 Route 3, Baille, New Brunswick",5,1,,,            Residential        ,99000,E5A1G5
+"894 Shediac Road, Moncton, New Brunswick, E1A 5X6",4,3,4307,,            Residential        ,498600,E1A 5X6
+"Vacant Land Chamcook NB, Saint Andrews, New Brunswick",,,,5,            Lots And Land        ,29990,E5B3A1
+"126 King Street, Saint Andrews, New Brunswick",5,3,3242,,            Residential        ,399000,E5B1Y6
+"131 Old School House Road, Birneys Lake, New Brunswick",4,2,4030,,            Residential        ,339000,E5A2H1
+"41 King Street, Petitcodiac, New Brunswick, E4Z 4K8",3,1,1008,1.148,            Residential        ,135900,E4Z 4K8
+#NAME?,,,,,            Lots And Land        ,29000,E5A1B2
+"92 McGregor St., Fredericton, New Brunswick, E3A 7V5",,,,0.212,            Lots And Land        ,42500,E3A 7V5
+"Lot 1 - 3.89 Acres Sandy Point Rd., Miramichi, New Brunswick, E9A 1L2",,,,3.9,            Lots And Land        ,59900,E9A 1L2
+"21 Dufferin, Sackville, NB, Sackville, New Brunswick, E4L 2Y8",4,1,1849,0.42,            Residential        ,109900,E4L 2Y8
+"600 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.123,            Residential        ,264900,E1H 3S7
+"182 Union Street, St. Stephen, New Brunswick",3,2,,,            Residential        ,89000,E3L1W1
+"Lot 1 - 3.89 Acres Sandy Point Rd., Miramichi, New Brunswick, E9A 1L2",,,,3.9,            Lots And Land        ,59900,E9A 1L2
+"21 Dufferin, Sackville, NB, Sackville, New Brunswick, E4L 2Y8",4,1,1849,0.42,            Residential        ,109900,E4L 2Y8
+"600 Royal Oaks Boulevard, Moncton, New Brunswick, E1H 3S7",2,2,1232,0.123,            Residential        ,264900,E1H 3S7
+"182 Union Street, St. Stephen, New Brunswick",3,2,,,            Residential        ,89000,E3L1W1
+"Vacant Land Utopia, St. George, New Brunswick, E5H 2M1",,,,100,            Lots And Land        ,20007,E5H 2M1
+"9 Church Street, St. Stephen, New Brunswick, E3L 1L3",,,,,            Lots And Land        ,12500,E3L 1L3
+"67 Sebastien, Shediac, New Brunswick, E4P 0K7",3,3,2300,,            Residential        ,329000,E4P 0K7
+"Lot 89-1 Route 445, Fair Isle, New Brunswick",,,,1.03,            Lots And Land        ,8000,E9G2M7
+"Lot 15-1 Winterport Way, Fredericton, New Brunswick",,,,1,            Lots And Land        ,50000,E3A1X5
+"50 Queen Street East, St. Stephen, New Brunswick",2,2,,,            Residential        ,149000,E3L2J6
+"- Lots 1, 2, 3, 4 Oak Bay Lilly Hill, Saint Stephen, New Brunswick, E3L 5E8",,,,,            Lots And Land        ,59900,E3L 5E8
+"51 Champion, Dieppe, New Brunswick, E1A 9E9",5,,3595,0.419,            Residential        ,569900,E1A 9E9
+"Lot #28 Streamfront, Piskahegan, New Brunswick",,,,,            Lots And Land        ,12000,E5C0A8
+"85 Lakeshore Drive, Bethel, New Brunswick",,,,,            Lots And Land        ,49000,E5C1N0
+"100 acres Route 735, Western Charlotte, New Brunswick",,,,,            Lots And Land        ,59000,E3L5G4
+"5 Confederation Crescent, Miramichi, New Brunswick, E1V 4Z8",,,,0.18,            Lots And Land        ,24900,E1V 4Z8
+"28 Guy - Spring 2020, Shediac, New Brunswick, E4P 0L5",3,1,1124,,            Residential        ,212000,E4P 0L5
+"45 Percy Kelly Drive, Miramichi, New Brunswick, E1V 5V5",2,1,1008,0.25,            Residential        ,129900,E1V 5V5
+"8 Anahid St, Moncton, New Brunswick, E1G 4T7",2,1,1000,0.082,            Residential        ,139000,E1G 4T7
+"Lot 89-4 Route 445, Fair Isle, New Brunswick",,,,2.55,            Lots And Land        ,13400,E9G2M7
+"Lot Route 530, Grande Digue, New Brunswick",,,,0.623,            Residential        ,30000,E4R5G8
+"2852 Route 117, Kouchibouguac, New Brunswick",,,,1.02,            Residential        ,75000,E4X2P2
+"Vacant Lot #2 Rankine Road, Bayside, New Brunswick",,,,13,            Lots And Land        ,71500,E5B2V2
+"20 Knowlton Crescent, Oromocto, New Brunswick, E2V 4S8",4,3,2168,0.148,            Residential        ,364900,E2V 4S8
+"46 Main Street B, St. Stephen, New Brunswick",,,,,            Lots And Land        ,20000,E3L1Z5
+"4363 Route 3, Saint Stephen, New Brunswick, E6K 1Y4",,,,,            Lots And Land        ,79900,E6K 1Y4
+"64 Henderson Street, Miramichi, New Brunswick",,,,,            Lots And Land        ,28850,E1N2R5
+"2255 Mountain Rd., Moncton, New Brunswick, E1J 1B6",,,,4,            Residential        ,450000,E1J 1B6
+"7888 Route 112 Hunters home, Greater Salisbury, New Brunswick",,,,,            Other        ,32000,E4Z3H7
+"8 Second Street, Petitcodiac, New Brunswick, E4Z 4V9",2,1,1200,,            Residential        ,119900,E4Z 4V9
+"1180 Route 725, Saint Stephen, New Brunswick, E3L 5R2",3,2,,,            Residential        ,174000,E3L 5R2
+"423 Route 725, Dennis-Weston, New Brunswick",2,1,,,            Residential        ,109000,E3L4V9
+"281 Milltown Blvd, St. Stephen, New Brunswick, E3L 1H8",4,1,2157,0.33,            Residential        ,269000,E3L 1H8
+"1431 Route 755, St. Stephen, New Brunswick",,,594,3,            Lots And Land        ,25000,E5A2P8
+"1886 Route 515, Bouctouche, New Brunswick",4,1,1775,,            Residential        ,92000,E4S0B3
+"124 Chamcook Lake #1 Road, Chamcook, New Brunswick",,,,,            Lots And Land        ,110000,E5B3C3
+"98-15 Bayview Boulevard, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,70000,E5B3G6
+"9069 Route 3, Saint Stephen, New Brunswick, E3L 4W9",,,,,            Lots And Land        ,60000,E3L 4W9
+"LOT 2 MURDOCK RD., Miramichi, New Brunswick, E1N 4Y9",,,,10.3,            Lots And Land        ,19900,E1N 4Y9
+"15 Bridge St., Stanley, New Brunswick, E6B-1B1",4,2,2264,0.302,            Residential        ,205000,E6B-1B1
+"LOT # 2 Oaksway Street, St. Stephen, New Brunswick",,,,,            Lots And Land        ,39500,E3L1P8
+"- Route 127, Bayside, New Brunswick, E5B 2T9",,,,,            Lots And Land        ,59000,E5B 2T9
+"37 Rose Street, St. Stephen, New Brunswick, E3L 2R1",2,1,730,0.24,            Residential        ,69900,E3L 2R1
+"Route 170, St. Stephen, New Brunswick",,,,2.79,            Lots And Land        ,30000,E3L 0G1
+"2.74 Acres Hopps Lane, Oak Haven, New Brunswick",,,,,            Lots And Land        ,49900,E3L3V3
+"10 Downey Lane, Dennis-Weston, New Brunswick",4,1,1082,1.24,            Residential        ,157900,E3L4V9
+"- Route  725, Western Charlotte, New Brunswick",,,,,            Lots And Land        ,15900,E3L 5N6
+"60 Route 735, Western Charlotte, New Brunswick",3,1,,,            Residential        ,89500,E3L5E6
+"10 Downey Lane, Dennis-Weston, New Brunswick",4,1,1082,1.24,            Residential        ,157900,E3L4V9
+"- Route  725, Western Charlotte, New Brunswick",,,,,            Lots And Land        ,15900,E3L 5N6
+"60 Route 735, Western Charlotte, New Brunswick",3,1,,,            Residential        ,89500,E3L5E6
+"40 Queen Street West, St Stephen, St. Stephen, New Brunswick, E3L2K3",2,1,1590,0.26,            Residential        ,87000,E3L2K3
+"11 Pagan Street, St. Stephen, New Brunswick",4,1,,,            Residential        ,119000,E3L1R9
+"62 Duffy Rd., Riverview, New Brunswick",3,1,1500,12,            Residential        ,225000,E1J1A9
+"98-12 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,110000,E5B3G5
+"4000 SQ M LOT 91-1 Rte 117, Escuminac, Miramichi, New Brunswick, E9A 1R4",,,,0.988,            Lots And Land        ,19900,E9A 1R4
+"1046-1048 North Road, Campobello Island, New Brunswick",6,3,2100,5,            Residential        ,399900,E5E1E5
+#NAME?,,,,,            Lots And Land        ,129500,E5B3X1
+"6 Green Acres Lane, Salisbury, New Brunswick, E4J 0B4",4,2,2300,0.724,            Residential        ,274900,E4J 0B4
+"27 Fraser, Oak Bay, New Brunswick",3,1,1468,,            Residential        ,49000,E3L4B5
+"Waterfront Acreage on Braveheart Road, Renous - Quarryville, New Brunswick",,,,5.51,            Lots And Land        ,65000,E9B0A4
+"20 Riverdise Drive, Saint Stephen, New Brunswick, E3L 1B7",3,2,,,            Residential        ,114000,E3L 1B7
+"50 acres Splan Pond Area Route, Dennis-Weston, New Brunswick",,,,,            Lots And Land        ,38500,E3L5G7
+"7878 Hunters Home, Havelock, New Brunswick",1,1,1200,,            Residential        ,249000,E4C3J6
+"Lot 4741 Rte 117, Upper Miramichi, New Brunswick",,,,2.5,            Lots And Land        ,19900,E1N5L7
+"258 Royree Road, Western Charlotte, New Brunswick",2,1,,,            Residential        ,115000,E3L5S4
+"98-11 Ross Point Road, Greater Saint Andrews, New Brunswick",,,,,            Lots And Land        ,135000,E5B3G5
+"213 Maces Bay Road, Maces Bay, New Brunswick",,,,,            Lots And Land        ,29900,E5J1S6
+"14 Gowan Loop Rd, Saint Andrews, New Brunswick",1,,720,1,            Residential        ,79000,E5B3K3
+"550 Cookville Road, Greater Sackville, New Brunswick",,,,644.89,            Farm And Agriculture        ,2300000,E4L2A7
+"3 Newport DR, Moncton, New Brunswick, E1G2L9",3,1,1050,,            Single Family        ,149900,E1G2L9
+"Lot 3 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,129500,E2G2A1
+"3 Gabriel Street, Edmundston, New Brunswick",,,,,            Vacant Land        ,35000,E7B1S5
+"110 Route 1148, Tracey Mills, New Brunswick",3,1,1200,,            Single Family        ,114900,E7K2C2
+"125 Cocagne Sud, Cocagne, New Brunswick, E4R2J8",3,2,1826,,            Single Family        ,224900,E4R2J8
+"44 Hamilton RD, Elgin, New Brunswick, E4Z1V8",2,2,1092,,            Single Family        ,99000,E4Z1V8
+"1012 Route 820, Barnesville, New Brunswick",3,1,,2.3,            Single Family        ,89900,E5N3K9
+"65 Curry, Moncton, New Brunswick, E1A3V6",3,1,750,,            Single Family        ,64900,E1A3V6
+"41 Desrosiers, Dieppe, New Brunswick, E1A7W5",4,4,2483,,            Single Family        ,389900,E1A7W5
+"17 Anchorage Avenue, Millidgeville, New Brunswick",4,4,4300,,            Single Family        ,499000,E2K5R1
+"1346 Four Road, Inkerman, New Brunswick",3,1,,,            Single Family        ,150000,E8P1E8
+"56 Pincher Street, Greater Woodstock, New Brunswick",4,2,2146,,            Single Family        ,174900,E7M5H1
+"13 des Erables RD, Dieppe, New Brunswick, E1A8X7",3,3,1750,,            Single Family        ,229000,E1A8X7
+"34 Louise Court, Fredericton, New Brunswick, E3G5M5",4,4,3416,,            Single Family        ,499900,E3G5M5
+"43 Larochelle, Dieppe, New Brunswick, E1A9B6",4,4,2248,,            Single Family        ,454900,E1A9B6
+"66 Martindale DR, Moncton, New Brunswick, E1G2J3",3,2,1290,,            Single Family        ,169900,E1G2J3
+#NAME?,,,,,            Vacant Land        ,125000,E1W1A7
+"225 SERENITY Lane Unit 325, Fredericton, New Brunswick, E3B0H1",2,1,,,            Single Family        ,137500,E3B0H1
+"Lot 14-6 & 14-7 Burtis Way, Cumberland Bay, New Brunswick",,,,,            Vacant Land        ,179900,E4A0B8
+"365 Gibson Street, Fredericton, New Brunswick, E3A4E7",2,1,1100,,            Single Family        ,149900,E3A4E7
+"Lot#78 Apple Blossom Trail, Hampton, New Brunswick, E5N0J6",3,2,,,            Single Family        ,321500,E5N0J6
+"60 Carrie Street, Rusagonis - Waasis, New Brunswick",3,2,1080,,            Single Family        ,166700,E3B8W3
+"20 Sedona CRES, Moncton, New Brunswick, E1G5X6",1,2,1420,,            Single Family        ,310000,E1G5X6
+"102 Central Avenue, Island View Heights, New Brunswick",2,2,1008,,            Single Family        ,165000,E2M4C7
+"131 Lawrence Long Road, Acamac, New Brunswick",1,1,,0.402,            Single Family        ,89900,E2M6A2
+"35 Walker Crescent, Hampton, New Brunswick, E5N5Z7",4,2,,,            Single Family        ,125000,E5N5Z7
+"397 Parkhurst Drive, Fredericton, New Brunswick, E3B2K2",4,2,,,            Single Family        ,284900,E3B2K2
+"Vacant Lot 3 Route, Brockway, New Brunswick",,,,,            Vacant Land        ,79900,E6K2B6
+#NAME?,,,,,            Vacant Land        ,19500,E5E1E5
+#NAME?,,,,,            Vacant Land        ,758000,E2E3T4
+"378 BROAD Road, Geary, New Brunswick",5,2,,,            Single Family        ,94900,E2V3P6
+"635 3ime ave Avenue, Grand Sault/Grand Falls, New Brunswick",5,3,,,            Single Family        ,199500,E3Z 1A3
+"29 Sheffield Court, Fredericton, New Brunswick, E3B4M9",,,1824,,            Multi-family        ,214900,E3B4M9
+"64 Madonna Drive, Greater Kingsclear, New Brunswick",3,2,2800,,            Single Family        ,298900,E3E2N1
+"20 Acadie Siding, Acadie Siding, New Brunswick",2,1,,,            Single Family        ,39995,E4Y1R6
+"44 Shore Road, Maquapit Lake, New Brunswick",3,1,716,,            Single Family        ,239000,E4B4A7
+"78 Point Park DR, Riverview, New Brunswick, E1B1C5",3,2,952,,            Single Family        ,174900,E1B1C5
+"Lot 76-2 Renaud, Saint - Antoine, New Brunswick",,,,,            Vacant Land        ,24900,E4V3H3
+"180 Murielle CRES, Dieppe, New Brunswick, E1A8J1",4,3,1200,,            Single Family        ,309000,E1A8J1
+"186 Lincoln Road, Fredericton, New Brunswick, E3B2A3",5,4,5720,,            Single Family        ,474900,E3B2A3
+"83 ch Rang 5, Saint-Basile, New Brunswick",3,1,,,            Single Family        ,129900,E7C2B3
+"Lot Melanie Street, Grand Falls - Grand-Sault, New Brunswick",,,,,            Vacant Land        ,42500,E3Y3T3
+"105 Route 2950, Bear Island, New Brunswick",3,3,,,            Single Family        ,599900,E6L1H5
+"Lot Route 945, Haute Aboujagane, New Brunswick, E4P5T3",,,,,            Vacant Land        ,59000,E4P5T3
+"323 Irving BLVD, Bouctouche, New Brunswick, E4S3K8",2,2,1309,,            Single Family        ,219900,E4S3K8
+"1259 Route 425, Whitney, New Brunswick",4,2,,,            Single Family        ,224900,E1V4K6
+"122 Cunard, Richibucto, New Brunswick, E4W3Z4",2,1,1012,,            Single Family        ,139500,E4W3Z4
+"24 Alderwood Street, Island View Heights, New Brunswick",3,2,1450,0.026,            Single Family        ,135000,E2M5X4
+"182 Chartersville RD, Dieppe, New Brunswick, E1A1K4",4,3,2368,,            Single Family        ,289900,E1A1K4
+"5398 Route 105, Whites Cove, New Brunswick",3,1,1040,,            Single Family        ,59900,E4C3H6
+"3624 Route 530, Grande Digue, New Brunswick",5,2,1536,,            Single Family        ,239900,E4R5P4
+"582 Chartersville, Dieppe, New Brunswick, E1A1K6",4,2,966,,            Single Family        ,196900,E1A1K6
+"90 Westminster Court, Millidgeville, New Brunswick",3,3,2441,,            Single Family        ,339000,E2K4S3
+"138 Britain Street, Saint John Centre, New Brunswick",,,3267,,            Multi-family        ,140000,E2L1X5
+"10 & 14 107 Route, Nashwaak Bridge, New Brunswick",5,2,,,            Single Family        ,139900,E6C2G7
+"111 Janice, Moncton, New Brunswick, E1A0C5",4,2,1248,,            Single Family        ,269900,E1A0C5
+"63 Nightingale Lane, Quispamsis, New Brunswick, E2E3T1",3,3,,,            Single Family        ,364900,E2E3T1
+"101 Leinster Street, Saint John Centre, New Brunswick",,,2800,,            Multi-family        ,379000,E2L1J4
+"516 Riverside Drive Unit 4, Fredericton, New Brunswick, E3A8C2",2,2,,,            Single Family        ,164900,E3A8C2
+"333 Elmore CRT, Riverview, New Brunswick, E1B2L3",4,2,1077,,            Single Family        ,230000,E1B2L3
+"2 Lindsay Lane, St. Stephen, New Brunswick, E3L0B2",3,2,,,            Single Family        ,225000,E3L0B2
+"LOT 11 Headland Road, Kingsclear, New Brunswick, E2E0E5",,,,,            Vacant Land        ,99500,E2E0E5
+"186 Williston Drive, Miramichi, New Brunswick, E1V5W9",3,1,,,            Single Family        ,159900,E1V5W9
+"972 St-François Street, Edmundston, New Brunswick, E3V4R2",2,2,2000,,            Single Family        ,159500,E3V4R2
+"546 Emblem Court, Oromocto, New Brunswick, E2V1H7",2,1,1200,,            Single Family        ,149900,E2V1H7
+"217 McClellan, Riverview, New Brunswick, E1B1X3",3,1,1232,,            Single Family        ,164900,E1B1X3
+"155 Lian Street Unit 436, Fredericton, New Brunswick, E3C0L9",2,1,,,            Single Family        ,199900,E3C0L9
+"3 Wallace CRT, Riverview, New Brunswick, E1B3V2",4,3,3272,,            Single Family        ,274900,E1B3V2
+"Lot A Wilsey Road, Rusagonis - Waasis, New Brunswick",,,,,            Vacant Land        ,59900,E3B9A5
+"63 Thorncastle ST, Lutes Mountain, New Brunswick, E1G0S6",4,3,1900,,            Single Family        ,599900,E1G0S6
+"Lot 4 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,129500,E2G2A1
+"Lot 04-20 Wayne ST, Shediac, New Brunswick, E4P2W8",,,,,            Vacant Land        ,49000,E4P2W8
+"72 Watters Drive, Fredericton, New Brunswick, E3A3T2",3,2,,,            Single Family        ,179900,E3A3T2
+"920 Coverdale RD, Riverview, New Brunswick, E1B5E5",5,5,6352,,            Single Family        ,679000,E1B5E5
+"831 Dever Road, Greendale, New Brunswick",3,2,,,            Single Family        ,209900,E2M4L2
+"69 Acadie, Bouctouche, New Brunswick, E4S2T7",3,1,1680,,            Single Family        ,198000,E4S2T7
+"1087 Route 850, Kiersteadville, New Brunswick",3,1,,0.416,            Single Family        ,199900,E5T3P3
+"313 Lavoie, Dieppe, New Brunswick, E1A6R8",6,5,4087,,            Single Family        ,559900,E1A6R8
+"160 Nevers Road, Nevers Road, New Brunswick",3,1,,,            Single Family        ,129900,E3B8R4
+"129 Todd Street, Glen Falls - Golden Grove, New Brunswick",4,2,1250,,            Single Family        ,99000,E2H1Y6
+"148 Route 825, Killarney Road, New Brunswick",2,1,768,,            Single Family        ,114800,E3G9G1
+"10 Route 601, Richibucto Road, New Brunswick",4,3,1730,,            Single Family        ,249900,E3A7E1
+"113 Slipp Street, Woodstock, New Brunswick, E7M2R5",3,2,,,            Single Family        ,83900,E7M2R5
+"102 Horton Road, Rothesay, New Brunswick, E2H1P8",4,3,1850,,            Single Family        ,324900,E2H1P8
+"Lot Route 390, Greater Perth - Andover, New Brunswick",,,,,            Vacant Land        ,80000,
+"282 Price Road, Drummond, New Brunswick",4,2,,,            Single Family        ,179000,E3Y2N7
+"26 Birchwood Place, Island View Heights, New Brunswick",3,2,,,            Single Family        ,139900,E2M5G5
+"18 Islands, Greater Canterbury, New Brunswick",,,,,            Vacant Land        ,550000,E6H1R2
+"234 Edinburgh Street, Fredericton, New Brunswick, E3B2C9",4,2,,,            Single Family        ,349900,E3B2C9
+"118 St John ST, Pointe-du-Chene, New Brunswick",,,,,            Vacant Land        ,224900,E4P5G5
+"484 Bon Secours RD, St. Paul, New Brunswick",,,,,            Vacant Land        ,22500,E4T3B4
+"560 Route 2896, Williamstown, New Brunswick",3,1,,,            Single Family        ,89900,E7K1S8
+"2170 Route 885, Havelock, New Brunswick, E4Z5N5",4,2,766,,            Single Family        ,80000,E4Z5N5
+"LOT 12-2 Hope RD, Steeves Mountain, New Brunswick, E1G3Z1",,,,,            Vacant Land        ,49900,E1G3Z1
+"50 Brigadoon Terrace, Rockwood Park, New Brunswick",3,3,4600,0.392,            Single Family        ,499000,E2K5N5
+"27 Saint Paul's Street, Hampton, New Brunswick, E5N5P8",4,1,,0.853,            Single Family        ,150000,E5N5P8
+"03-11 Archangel Way, Keswick Ridge, New Brunswick, E6L0A5",,,,,            Vacant Land        ,33900,E6L0A5
+"124 Valmont CRES, Dieppe, New Brunswick, E1A1N2",3,3,1700,,            Single Family        ,545000,E1A1N2
+"Vacant Lot 17-1 John Chessie Road, Hanwell, New Brunswick",,,,,            Vacant Land        ,20000,E6K2Z8
+"Lot Elm Street, Chipman, New Brunswick, E4A1X6",,,,,            Vacant Land        ,12000,E4A1X6
+"8 Collett Court, Fredericton, New Brunswick, E3A4G2",3,1,1380,,            Single Family        ,139900,E3A4G2
+"1303 Brittain Road, Lower Greenwich, New Brunswick",4,2,2300,,            Single Family        ,168000,E5K4K1
+"97 Carleton Street, Saint John Centre, New Brunswick",,,2000,,            Multi-family        ,149900,E2L2Z2
+"19 BARKER Street, Oromocto, New Brunswick, E2V2K4",4,1,,,            Single Family        ,159900,E2V2K4
+"58 Whisperwood, Moncton, New Brunswick, E1G0P8",3,2,1420,,            Single Family        ,184900,E1G0P8
+"Lot Dooley Road, Johnville, New Brunswick",,,,,            Vacant Land        ,10000,E7J1Y1
+"121-127 Wright Street, Indiantown, New Brunswick",,,10000,,            Multi-family        ,899900,E2K3Z5
+"16 Hillcrest Avenue, Hartland, New Brunswick, E7P1M6",4,2,,,            Single Family        ,159900,E7P1M6
+"21-23 Mansfield ST, Moncton, New Brunswick, E1A2V8",3,3,1785,,            Multi-family        ,119900,E1A2V8
+"19 Stewart Street, Fredericton, New Brunswick, E3G3V4",2,2,,,            Single Family        ,109900,E3G3V4
+"127 Monash Cove, Upper Cape, New Brunswick",2,1,1008,,            Single Family        ,139900,E4M2R7
+"11768 Route 105, Kilburn, New Brunswick",4,2,,,            Single Family        ,159000,E7H3X3
+"294 Thomas, Dieppe, New Brunswick, E1A2C2",2,2,1194,,            Single Family        ,174900,E1A2C2
+"9 Bristol CRES, Riverview, New Brunswick, E1B0S9",4,3,1584,,            Single Family        ,229900,E1B0S9
+"Lot 19-2 South Shediac River RD, Shediac Bridge - Shediac River, New Brunswick",,,,,            Vacant Land        ,85000,E4R1N5
+"582 Bonita Avenue, Silver Falls, New Brunswick",3,1,1725,,            Single Family        ,119900,E2G2T3
+"19 Orchard Lane, Greater Kingsclear, New Brunswick",3,3,2260,,            Single Family        ,559000,E3C0E2
+"Lot 2018-3 Grand Pass Court, Greater Estey's Bridge, New Brunswick",,,,,            Vacant Land        ,134900,E6L1B6
+"129 Todd Street, Glen Falls - Golden Grove, New Brunswick",,,1250,,            Multi-family        ,99000,E2H1Y6
+"6683 Route 105, Sussex, New Brunswick, E4E2C2",,,,,            Vacant Land        ,124900,E4E2C2
+"55 Maxwell Drive, Sussex, New Brunswick, E4E2E1",4,2,2180,,            Single Family        ,239900,E4E2E1
+"1521 Tobique Road, Drummond, New Brunswick, E3Y2P8",3,2,,0.028,            Single Family        ,139000,E3Y2P8
+"Lot du Portage, Caraquet, New Brunswick, E1W1A8",,,,,            Vacant Land        ,19000,E1W1A8
+#NAME?,,,,,            Vacant Land        ,19500,E5E1E5
+"28 32e Avenue, Edmundston, New Brunswick, E3V2S2",6,2,,,            Single Family        ,59000,E3V2S2
+"95 Blanchard Court, Fredericton, New Brunswick, E3G3X2",4,2,,,            Single Family        ,254900,E3G3X2
+"1001 Bossé Road, Saint-Joseph-De-Madawaska, New Brunswick",4,2,3000,,            Single Family        ,225000,E7B2K2
+"116 Falaise, Grande-Anse, New Brunswick",,,,,            Vacant Land        ,49900,E8N1E6
+"Lot 3 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,129500,E2G2A1
+"Vacant Lot 17-1 John Chessie Road, Hanwell, New Brunswick",,,,,            Vacant Land        ,20000,E6K2Z8
+"83 ch Rang 5, Saint-Basile, New Brunswick",3,1,,,            Single Family        ,129900,E7C2B3
+"Lot 2018-4 Grand Pass Court, Greater Estey's Bridge, New Brunswick",,,,,            Vacant Land        ,134900,E6L1B6
+"44 Shore Road, Maquapit Lake, New Brunswick",3,1,716,,            Single Family        ,239000,E4B4A7
+"3 Hope RD 12, Steeves Mountain, New Brunswick, E1G3Z1",,,,,            Vacant Land        ,44900,E1G3Z1
+"63 Indian Lake Road, Lakeville Corner, New Brunswick",1,1,520,,            Single Family        ,59500,E4B1L9
+"195 Pleasant ST, Moncton, New Brunswick, E1A2V6",5,2,1872,,            Single Family        ,189900,E1A2V6
+"4064 Route 480, Acadieville, New Brunswick",4,2,,,            Single Family        ,129900,E4Y2B8
+"8 Collett Court, Fredericton, New Brunswick, E3A4G2",3,1,1380,,            Single Family        ,139900,E3A4G2
+"2343 Route 490, Ammon, New Brunswick, E1G4R6",3,2,1200,,            Single Family        ,199900,E1G4R6
+"639 Cormier Village RD, Cormier - Village, New Brunswick",4,2,753,,            Single Family        ,129900,E4P5W2
+"160 Nevers Road, Nevers Road, New Brunswick",3,1,,,            Single Family        ,129900,E8B8R5
+"43 Larochelle, Dieppe, New Brunswick, E1A9B6",4,4,2248,,            Single Family        ,454900,E1A9B6
+"32 Derby ST, Moncton, New Brunswick, E1C6Y5",,,2436,,            Multi-family        ,179000,E1C6Y5
+"1346 Four Road, Inkerman, New Brunswick",3,1,,,            Single Family        ,150000,E8P1E8
+"9 Bristol CRES, Riverview, New Brunswick, E1B0S9",4,3,1584,,            Single Family        ,229900,E1B0S9
+"19 First AVE, Pointe-du-Chene, New Brunswick",3,1,800,,            Single Family        ,134900,E4P4E8
+"20 Shallon Lane, Fredericton, New Brunswick",,,2200,,            Multi-family        ,319900,E3A9R4
+"284 Carriage Hill Road, Hanwell, New Brunswick",,,1728,,            Multi-family        ,379900,E3E1A4
+"27 Grandview Lane, Grand Lake, New Brunswick",3,2,1400,,            Single Family        ,259900,E4B1X7
+"1686 Route 310, Coteau Road, New Brunswick, E8T3K3",2,1,,,            Single Family        ,109000,E8T3K3
+"79-81 Algonquin, Moncton, New Brunswick, E1G2C8",5,2,1200,,            Multi-family        ,269900,E1G2C8
+"861 Red Head Road, Red Head, New Brunswick",3,2,,,            Single Family        ,164900,E2P1J3
+"76 Ashfield Drive, Quispamsis, New Brunswick, E2G1R2",3,1,1400,,            Single Family        ,209900,E2G1R2
+"Lot 19-01 Bayview Drive, Saint Andrews, New Brunswick",,,,,            Vacant Land        ,129900,E5B3G5
+"19 Ouellette Lane, Greater Drummond, New Brunswick",2,1,,,            Single Family        ,199000,E7G2M3
+"11 Westfield Place, Fredericton, New Brunswick, E3G0C1",3,3,,,            Single Family        ,687900,E3G0C1
+"Lot Route 955, Murray Corner, New Brunswick, E4M3M2",,,,,            Vacant Land        ,99000,E4M3M2
+"4 Acacia Court, Fredericton, New Brunswick, E3B1Y7",3,2,,,            Single Family        ,349900,E3B1Y7
+"23 Willowdale Drive, Rusagonis - Waasis, New Brunswick",4,4,3150,,            Single Family        ,439999,E3B0V5
+"36 Crandall ST, Moncton, New Brunswick, E1C4C5",3,1,900,,            Single Family        ,135000,E1C4C5
+"Lot 13 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,69500,E2G2A1
+"385 Duke Street, Bayshore, New Brunswick",,,2020,0.154,            Multi-family        ,119900,E2M1W4
+"828 Murray RD, Saint - Antoine, New Brunswick",5,2,1306,,            Single Family        ,224900,E4V2Z1
+"90 Principale, Memramcook, New Brunswick, E4K1A6",2,2,2064,,            Single Family        ,244500,E4K1A6
+"31 School ST, Rexton, New Brunswick, E4W2E4",3,1,1352,,            Single Family        ,120000,E4W2E4
+"56 Cameron Drive, Burton, New Brunswick",3,2,,,            Single Family        ,289900,E2V3G7
+"Lot 10 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,69500,E2G2A1
+"19 First AVE, Pointe-du-Chene, New Brunswick",3,1,800,,            Single Family        ,134900,E4P4E8
+"Lot 76-3 Renaud, Saint-Antoine, New Brunswick",,,,,            Vacant Land        ,24900,E4V3H3
+"690 Route 1120, Maquapit Lake, New Brunswick",4,1,,,            Single Family        ,199900,E4B1R2
+"555 Principale, Pointe-Verte, New Brunswick",,,,,            Vacant Land        ,124900,E8J3A2
+"1644 Wilsey Road, Rusagonis-Waasis, New Brunswick",3,1,,,            Single Family        ,239900,E3B8J2
+"25 Norwood AVE, Moncton, New Brunswick, E1C6L8",4,2,2190,,            Multi-family        ,139900,E1C6L8
+"/ Goodspeed Road, Penniac, New Brunswick",,,,,            Vacant Land        ,94000,E3A8Y3
+"30 Shornecliff Drive, Quispamsis, New Brunswick, E2E0G9",5,4,3641,,            Single Family        ,499900,E2E0G9
+"65 KEYHOLE Road, Grand Lake, New Brunswick",2,2,,,            Single Family        ,110000,E4B4C9
+"89 Hannington, Shediac Cape, New Brunswick, E4P3C8",5,4,4900,,            Single Family        ,599000,E4P3C8
+"250 Whittaker Road, Rusagonis - Waasis, New Brunswick",3,2,,,            Single Family        ,214900,E3B7Z2
+"77 Houlahan ST, Dieppe, New Brunswick, E1A0S9",3,2,1250,,            Single Family        ,182000,E1A0S9
+"155 Lian Street Unit 325, Fredericton, New Brunswick, E3C0L9",2,1,,,            Single Family        ,199900,E3C0L9
+"767 Old Shepody Road, Hammondvale, New Brunswick",3,1,1400,,            Single Family        ,179500,E4E4J3
+"650 Principale, Petit - Rocher, New Brunswick",3,2,,,            Single Family        ,104900,E8J1T7
+"32 Derby ST, Moncton, New Brunswick, E1C6Y5",,,2436,,            Multi-family        ,179000,E1C6Y5
+"35 Sagewood CRES, Moncton, New Brunswick, E1G1Z4",4,4,2457,,            Single Family        ,347000,E1G1Z4
+"506 Upper Goshen Road, Elgin, New Brunswick, E4Z0C4",2,1,672,,            Single Family        ,119900,E4Z0C4
+"681 Rogers Road, Long Point, New Brunswick",3,3,,,            Single Family        ,389900,E5N7W1
+"338 Sunset, Beresford, New Brunswick, E2A2G6",3,1,,,            Single Family        ,94900,E2A2G6
+"136 Strong Street, Woodstock, New Brunswick, E7M2V9",4,2,2352,,            Single Family        ,249900,E7M2V9
+"680 Front Mountain RD, Moncton, New Brunswick, E1G3H3",5,4,2650,,            Single Family        ,514900,E1G3H3
+"4064 Route 480, Acadieville, New Brunswick",4,2,,,            Single Family        ,129900,E4Y2B8
+"Lot#6 Apple Blossom Trail, Hampton, New Brunswick, E5N0J6",3,2,,,            Single Family        ,362000,E5N0J6
+"97 Gondola Point Road, Rothesay, New Brunswick, E2E2H6",3,1,1300,,            Single Family        ,149999,E2E2H6
+"150 Alma ST Unit 1, Moncton, New Brunswick, E1C4Y7",2,2,1334,,            Single Family        ,239900,E1C4Y7
+"38 Loyalist Drive, Hampton, New Brunswick, E5N5V6",4,3,2695,,            Single Family        ,339900,E5N5V6
+"44 Squire Drive, Quispamsis, New Brunswick, E2G1C1",4,3,2800,,            Single Family        ,373900,E2G1C1
+"52 Flagstone Drive, Quispamsis, New Brunswick, E2G0B8",5,4,3300,,            Single Family        ,359900,E2G0B8
+"641 Salisbury Back RD, Colpitts Settlement, New Brunswick",2,1,770,,            Single Family        ,89900,E4J1K6
+"20 Heathfield CRT, Moncton, New Brunswick, E1A0J1",3,3,1950,,            Single Family        ,459500,E1A0J1
+"62 Waverley, Moncton, New Brunswick, E1C7T7",3,1,800,,            Single Family        ,85000,E1C7T7
+"32 Fourth AVE, Pointe-du-Chene, New Brunswick",2,1,780,,            Single Family        ,149900,E4P4H7
+"Lot 91-3 Hutchinson LANE, Rexton, New Brunswick, E4W1Y8",,,,,            Vacant Land        ,39900,E4W1Y8
+"81 McNair Drive, Nackawic, New Brunswick, E6G1A5",4,2,,,            Single Family        ,164500,E6G1A5
+"5 Andrew Court, Grand Bay - Westfield, New Brunswick",3,2,1600,,            Single Family        ,229900,E5K2A3
+"3 Craig CRT, Riverview, New Brunswick, E1B4M4",3,2,1270,,            Single Family        ,199900,E1B4M4
+"71 Pointe des Robichaud, Val - Comeau, New Brunswick",3,1,,,            Single Family        ,319000,
+"1498 Champlain ST, Dieppe, New Brunswick, E1A1R4",6,3,3300,,            Multi-family        ,369000,E1A1R4
+"615 Weisner RD, Lakeville, New Brunswick, E1H1T6",3,1,862,,            Single Family        ,300000,E1H1T6
+"10 Route 1435, Noonan, New Brunswick, E3A7H6",3,3,1560,,            Single Family        ,219900,E3A7H6
+"8 Kingsley Avenue, Quispamsis, New Brunswick, E2E4Z1",4,3,,,            Single Family        ,319000,E2E4Z1
+"16 De La Barronie, Grand Barachois, New Brunswick",3,,3970,,            Single Family        ,452700,E4P8A1
+"185 McAuley Road, Smiths Creek, New Brunswick",2,2,,,            Single Family        ,299900,E4G2P6
+"Lot 2019-2 3 Route 2, Brockway, New Brunswick",,,,,            Vacant Land        ,49900,E6K2B6
+"69 Irène Street, Edmundston, New Brunswick, E3V1B8",4,2,2335,,            Single Family        ,374999,E3V1B8
+"5 Hope RD 12, Steeves Mountain, New Brunswick, E1G3Z1",,,,,            Vacant Land        ,57900,E1G3Z1
+"239 Driftwood Loop, Fredericton, New Brunswick, E3B7P1",4,1,1000,,            Single Family        ,44900,E3B7P1
+"745 Bridge Street, Bathurst, New Brunswick, E2A1W9",,2,,,            Single Family        ,74800,E2A1W9
+"225 Serenity Lane Unit 102, Fredericton, New Brunswick, E3B0H1",2,1,,,            Single Family        ,134900,E3B0H1
+"207 Williams Street, Grand Falls-Grand-Sault, New Brunswick",3,2,,0.019,            Single Family        ,147000,E3Z1A9
+"20 Burlington Court, Pokiok, New Brunswick",,,,,            Vacant Land        ,124000,
+"Lot 8 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,69500,E2G2A1
+"701 Pleasant Vale Road, Elgin, New Brunswick, E2Z0E1",3,2,,,            Single Family        ,209900,E2Z0E1
+"149 Gagnon, Moncton, New Brunswick, E1A0Z4",3,2,1350,,            Single Family        ,189900,E1A0Z4
+"549 Saint Olivier, Canisto Road, New Brunswick",2,2,840,,            Single Family        ,119900,E4X1Z6
+"9 Greystone Drive, Quispamsis, New Brunswick, E2G0J1",,,,,            Vacant Land        ,53900,E2G0J1
+"105 Route 5609, Mill Cove, New Brunswick",3,2,,,            Single Family        ,299900,E4C3E4
+"102 Route 1303, Upper Gagetown, New Brunswick, E5M1N2",2,1,,,            Single Family        ,99900,E5M1N2
+"4 Summer Point LANE, Baie - Verte, New Brunswick",3,2,1228,,            Single Family        ,219000,E4M2E3
+"13 Evergreen DR, Shediac, New Brunswick, E4P1R9",3,2,1778,,            Single Family        ,475000,E4P1R9
+"15 Clarendon DR, Moncton, New Brunswick, E1G0M8",3,2,690,,            Single Family        ,146900,E1G0M8
+"154 Frenette, Beresford, New Brunswick, E8K1Y5",4,3,,,            Single Family        ,549900,E8K1Y5
+#NAME?,,,,,            Vacant Land        ,69900,
+"17 Leeswood Drive, Quispamsis, New Brunswick, E2G1N1",5,3,2800,,            Single Family        ,269900,E2G1N1
+"Lot 2016-2 Grand Pass Court, Greater Estey's Bridge, New Brunswick",,,,,            Vacant Land        ,134900,E3G7X4
+"4392 Heritage Drive, Tracy, New Brunswick, E5L1B9",2,1,,,            Single Family        ,79900,E5L1B9
+"7 IAN Street, Champlain Heights, New Brunswick",4,1,,0.16,            Single Family        ,139900,E2J3K6
+"11 Coronation Court, Oromocto, New Brunswick, E2V2M9",4,2,,,            Single Family        ,169900,E2V2M9
+"1 Princess Street, Saint John Centre, New Brunswick",,,3520,,            Multi-family        ,885000,E2L1J9
+"8 Rockport, Riverview, New Brunswick, E1B5L5",4,4,1838,,            Single Family        ,344900,E1B5L5
+"Lot Hillandale Drive, Grand Bay-Westfield, New Brunswick",,,,,            Vacant Land        ,49900,E5K3E1
+"176 Sherwood Road, Greater Woodstock, New Brunswick",5,2,2975,,            Single Family        ,269000,E7N2B3
+"532 Couturier Road, Saint-Joseph, New Brunswick",3,2,,0.109,            Single Family        ,99900,E7B2K7
+"1793 Nicholas Denys, Nicholas - Denys, New Brunswick",3,1,,,            Single Family        ,89900,E8K3J9
+"215 Milltown Boulevard, St. Stephen, New Brunswick, E3L1G7",3,2,,0.14,            Single Family        ,174000,E3L1G7
+"44-46 Williams ST, Moncton, New Brunswick, E1C2G5",10,4,4000,,            Single Family        ,289900,E1C2G5
+"65 Valmont, Dieppe, New Brunswick, E1A0H3",5,4,2585,,            Single Family        ,774900,E1A0H3
+"642 Charters Settlement Road, Greater New Maryland, New Brunswick",4,1,,,            Single Family        ,224900,
+"102 Sequoia DR, Moncton, New Brunswick, E1E4R8",3,2,1288,,            Single Family        ,114900,E1E4R8
+"7 Elizabeth Ann Street, Burton, New Brunswick",3,1,1024,0.25,            Single Family        ,54900,E2V2Z7
+"40 Aberdeen AVE, Riverview, New Brunswick, E1B3G1",3,2,880,,            Single Family        ,139900,E1B3G1
+"15 Forest Road, Rothesay, New Brunswick, E2H1B4",3,1,,,            Single Family        ,225000,E2H1B4
+"72 Jenkins Drive, Quispamsis, New Brunswick, E2E0J4",4,5,,,            Single Family        ,685000,E2E0J4
+"Lot 95-3 Hillcrest Road, Forest Hills, New Brunswick",3,2,,,            Single Family        ,339900,E2N2B6
+"20 Edgar Street, Inkerman Centre, New Brunswick",2,1,,,            Single Family        ,89000,E8P0C8
+"Lot 14 Motivation Avenue, Quispamsis, New Brunswick, E2G2A1",,,,,            Vacant Land        ,69500,E2G2A1
+"2 Jones Avenue, Rothesay, New Brunswick, E2E1Y4",3,3,2700,,            Single Family        ,309900,E2E1Y4
+"141 Church Avenue, Sussex, New Brunswick, E4E1Z2",6,3,,,            Single Family        ,289900,E4E1Z2
+"108 Upper Stoneridge Road, Zealand, New Brunswick",1,1,,,            Single Family        ,90000,E6L2M1
+"1189 Post Road, Sussex Corner, New Brunswick, E4E2X7",4,1,,,            Single Family        ,109900,E4E2X7
+"2 Cross Road, Somerville, New Brunswick, E7P3B3",4,1,1378,,            Single Family        ,127500,E7P3B3
+"Lot#75 Apple Blossom Trail, Hampton, New Brunswick, E5N0J6",3,2,,,            Single Family        ,369000,E5N0J6
+"3 Hope RD 12, Steeves Mountain, New Brunswick, E1G3Z1",,,,,            Vacant Land        ,44900,E1G3Z1
+"Lot 2019-1 3 Route, Brockway, New Brunswick",,,,,            Vacant Land        ,49900,E6K2B6
+"45 McAndrew ST, Moncton, New Brunswick, E1G4Z2",3,3,1460,,            Single Family        ,389900,E1G4Z2
+"985 Vanier, Bathurst, New Brunswick, E2A3N3",4,1,,,            Single Family        ,139900,E2A3N3
+"490 Marguerite, Dieppe, New Brunswick, E1A7H1",3,2,1806,,            Single Family        ,224900,E1A7H1
+"564 Pleasant Vale RD, Elgin, New Brunswick, E4Z2C7",2,2,1950,,            Single Family        ,289900,E4Z2C7
